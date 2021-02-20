@@ -1,0 +1,13 @@
+/* app global css */
+
+.sin-flechas
+{
+    -webkit-appearance: textfield !important;
+    -moz-appearance:textfield !important;
+    appearance:textfield !important;
+    font-size: 1.3em;
+}
+
+.q-router-link--exact-active {
+  color: #009688 !important;
+}
